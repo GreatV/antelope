@@ -12,3 +12,5 @@ Frans Pretorius于2005年首次提出双黑洞的激发、合并与振铃的数�
 <p align="center">
 <img align="center" src="doc/imgs/qe_19_psi4r_r.gif", width=320>
 <p>
+
+项目实现主要参考文献：*Baumgarte, Thomas & Shapiro, Stuart. (2021). Numerical Relativity: Starting from Scratch. 10.1017/9781108933445.*
