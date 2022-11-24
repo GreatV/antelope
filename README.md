@@ -9,4 +9,6 @@
 
 Frans Pretorius于2005年首次提出双黑洞的激发、合并与振铃的数值模拟。下图展示了此模拟的过程。两个黑洞相互围绕旋转，黑洞视界越来越来扭曲。在某个时刻，事件视界合并形成一个扭曲的黑洞。这个黑洞会进行阻尼准正态振铃，最终稳定下来成为克尔黑洞。
 
-![](doc/imgs/qe_19_psi4r_r.gif)
+<p align="center">
+<img align="center" src="doc/imgs/qe_19_psi4r_r.gif", width=320>
+<p>
